@@ -1,6 +1,6 @@
 <?php
 
-    $registrasi = mysqli_connect("localhost","root","","registrasi");
+    $registrasi = mysqli_connect("db4free.net","dkzhen19","Bandulan113","gamestore_native");
 
     //check koneksi
     if (mysqli_connect_errno()){
